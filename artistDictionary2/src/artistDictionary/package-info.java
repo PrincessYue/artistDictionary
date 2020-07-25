@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author princ
+ *
+ */
+package artistDictionary;
